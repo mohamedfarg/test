@@ -43,9 +43,9 @@ Before you begin, ensure you have the following installed on your system:
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
-   DB_DATABASE=your_database_name
-   DB_USERNAME=your_username
-   DB_PASSWORD=your_password
+   DB_DATABASE=todo
+   DB_USERNAME=root
+   DB_PASSWORD=
    ```
 
 5. Run migrations to set up the database:
@@ -79,19 +79,8 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Screenshots
 
-_Add your application screenshots here to showcase the UI. For example:_
+![image](https://github.com/user-attachments/assets/94f214b3-950a-4b33-88fc-419dbc4d2eca)
 
-1. **Homepage with TODO List**:
-   ![Homepage](link-to-homepage-screenshot.png)
-
-2. **Add New TODO**:
-   ![Add TODO](link-to-add-todo-screenshot.png)
-
-3. **Edit TODO**:
-   ![Edit TODO](link-to-edit-todo-screenshot.png)
-
-4. **Completed Tasks**:
-   ![Completed Tasks](link-to-completed-tasks-screenshot.png)
 
 ## License
 
@@ -100,4 +89,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to contribute to this repository by submitting issues or pull requests!
+
 
